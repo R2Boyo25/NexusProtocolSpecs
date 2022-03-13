@@ -1,0 +1,2 @@
+- Private: Accessible only by the server
+- Public: Will be sent to the client when a `listAttributes` type command is sent. (All attributes should be assumed to be public if not stated.)
